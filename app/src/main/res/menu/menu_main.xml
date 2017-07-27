@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Previous" android:title="Previous">Previous</item>
+    <item android:id="@+id/Random" android:title="Random">Random</item>
+    <item android:title="Next" android:id="@+id/Next">Next</item>
+
+</menu>
